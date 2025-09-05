@@ -1,6 +1,6 @@
 **Hospitality Business Analysis**
 
-Worked on 5 star hotel chain bookings data to analyze past perfromance and based on analysis , generated insights and strategies to grow revenue across four cities in India 
+Worked on 5-star hotel chain bookings data to analyze past performance and based on analysis , generated insights and strategies to grow revenue across four cities in India.
 
  [Download Full Report (PDF)](docs/report.pdf) 
  [View Full Report on Google Docs](https://docs.google.com/document/d/1kQlpVXB0du4xuNR4IoxnbIfp1X77sblZX_cWhihBwOQ/edit?usp=sharing)
